@@ -1,0 +1,24 @@
+html{font-family: 'Roboto', sans-serif;}
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background: #f0f0f5;
+    -webkit-font-smoothing: antialiased;
+}
+
+a{
+    text-decoration: none;
+}
+:root{
+    --title-color: #322153;
+    --primary-color: #34cb79;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Ubuntu', sans-serif;
+}
+/*Box model
+modelo de caixa
+*/
